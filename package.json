@@ -1,0 +1,12 @@
+{
+  "name": "november-ai-interface",
+  "version": "1.0.0",
+  "description": "Sentient front-end interface for November AI — modular, harmonic, and deployment-ready.",
+  "scripts": {
+    "start": "live-server .",
+    "deploy": "npm run build && echo 'Deployed'"
+  },
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
